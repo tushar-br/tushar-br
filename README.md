@@ -2,7 +2,7 @@
 <div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZnaWZkOTk3NGx0dDlubDZmcHUzZWE1YXpkd2d1ZGk1YTJqc2JzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 
-    <img src="" width="30"/>
+    <img src=https://github.com/NovaLogics/NovaLogics/blob/main/assets/images/character_portrait_icon.png"" width="30"/>
 
   <div id="badges">
     <a href='https://api.whatsapp.com/send/?phone=919909413172'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' /></a>

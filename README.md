@@ -3,7 +3,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDZnaWZkOTk3NGx0dDlubDZmcHUzZWE1YXpkd2d1ZGk1YTJqc2JzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RN8FdaB6T1bkkI5n4I/giphy.gif" width="100"/>
 
   <div id="badges">
-    <a href='https://api.whatsapp.com/send/?phone=919909413172'><img src='https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white' /></a>
     <a href='mailto:rathodtushar1442@gmail.com'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>
     <a href='https://www.linkedin.com/in/tushar-br-a1712131a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a> 
     <a href='https://x.com/RathodTush2468?t=o33JvMM_InASJ6GO6YwKfA&s=09'><img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a>

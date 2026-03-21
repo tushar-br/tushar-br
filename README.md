@@ -1,19 +1,19 @@
-# Ꮦushar bɾ (Tushar Rathod)
-### ⚡ Cybernetic Architect • Full-Stack Developer • Security Enthusiast
+# Ꮦushar bɾ 
+####  • Full-Stack Developer • Clear and Professional Fronted developer 
 
-<p align="center">
+<p align="left">
   <a href="https://tusharbr.online">
-    <img src="https://img.shields.io/badge/🌐_LIVE_PORTFOLIO-tusharbr.online-00f2ff?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0D1117" />
+    <img src="https://img.shields.io/badge/_PORTFOLIO-tusharbr.online-C0C0C0?style=for-the-badge&logo=google-chrome&logoColor=black&labelColor=0D1117" />
   </a>
   <a href="https://linkedin.com/in/tushar-br">
     <img src="https://img.shields.io/badge/💼_LINKEDIN-Tushar_Rathod-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" />
   </a>
-  <a href="https://instagram.com/tusharbr">
-    <img src="https://img.shields.io/badge/📷_INSTAGRAM-@tushar__br-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" />
-  </a>
+ <a href="https://x.com/tushar__br">
+  <img src="https://img.shields.io/badge/𝕏_TWITTER-@tushar__br-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" />
+</a>
 </p>
 
----
+
 
 <div align="center">
 
@@ -26,11 +26,10 @@ I am **RATHOD TUSHAR BABUBHAI**, a Web & Game Developer from Gujarat, India. I a
 
 <div align="center">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 </div>
 
-## 🛠️ The Tech Stack Matrix
 
 ### 💻 Core Development
 - **Frontend:** React.js, Next.js, Three.js (3D Web), Tailwind CSS, Framer Motion
@@ -38,10 +37,6 @@ I am **RATHOD TUSHAR BABUBHAI**, a Web & Game Developer from Gujarat, India. I a
 - **Languages:** JavaScript, TypeScript, C#, Python, Java, Solidity (Blockchain)
 - **Game Dev:** Unity Engine, Blender (3D Modeling)
 
-### 🛡️ Cyber Security & Kali Linux
-Expertise in **60+ professional penetration testing tools**:
-
-`Nmap` `Metasploit` `Burp Suite` `Wireshark` `Sqlmap` `John the Ripper` `Hydra` `Aircrack-ng` `Ghidra` `BeEF` `Nuclei` `BloodHound`
 
 <div align="center">
 
@@ -49,40 +44,35 @@ Expertise in **60+ professional penetration testing tools**:
 
 </div>
 
-## 🚀 Digital Ecosystem (Website Modules)
+#  www.tusharbr.online
 
-### . [Portfolio home page](https://tusharbr.online/)
+### • [home page](https://tusharbr.online/)
 The central hub featuring an animated profile card and a **3D ID Card interface**. It utilizes a **Terminal-style App Grid** for seamless navigation across the entire ecosystem.
 
-### . [About & Philosophy](https://tusharbr.online/about)
+
+### • [Professional Resume](https://tusharbr.online/resume)
+A comprehensive timeline of my journey:
+- **Web & Game Developer (2024 - Present)**
+- **Diploma in I.T. (GTU, L.E. College) — Ongoing**
+- **Independent Project Architect (2021 - 2023)**
+
+
+### • [About & Philosophy](https://tusharbr.online/about)
 Focusing on four primary domains:
 - **Web Development:** High-performance React architectures.
 - **Game Development:** Immersive 3D environments via Unity.
 - **App Development:** Cross-platform PWA and mobile solutions.
 - **Cyber Security:** Ethical hacking and system hardening.
 
-### . [Professional Resume](https://tusharbr.online/resume)
-A comprehensive timeline of my journey:
-- **Web & Game Developer (2024 - Present)**
-- **Diploma in I.T. (GTU, L.E. College) — Ongoing**
-- **Independent Project Architect (2021 - 2023)**
-
-### . [Project Status Dashboard](https://tusharbr.online/projects)
+### • [Project  Dashboard](https://tusharbr.online/projects)
 A real-time **filterable grid** showcasing academic and professional projects, integrated with a **live status monitor** for active services.
 
-### . [Verified Credentials (certificate)](https://tusharbr.online/certificates)
+
+### • [Verified Credentials (certificate)](https://tusharbr.online/certificates)
 A gallery of **25+ Verified Certificates** spanning **Digital Marketing, Machine Learning, Cyber Security, and Advanced Programming.**
 
-### . [Social Status & Posts](https://tusharbr.online/status)
-A **WhatsApp/Instagram inspired interface** featuring story-style status updates and a deep-linked post grid with real-time interaction capabilities.
 
-### . [Collaborative "Book"](https://tusharbr.online/book)
-A real-time collaborative workspace combining a **Text Editor** and a **Digital Whiteboard**, protected by a secure passcode system and synced via Firebase.
-
-### . [TusharBR Cloud](https://tusharbr.online/cloud)
-A private asset management system powered by **Cloudinary**, featuring a secure admin vault for file management and instant CDN URL generation.
-
-### . [Encrypted Chat](https://tusharbr.online/chat)
+### • [Encrypted Chat](https://tusharbr.online/chat)
 An **end-to-end encrypted (AES)** real-time chat platform. Features include:
 - Telegram Bot integration for instant notifications.
 - Message reactions and star/bookmark system.

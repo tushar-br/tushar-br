@@ -22,7 +22,7 @@
 </div>
 
 ## 🌌 Overview
-I am **RATHOD TUSHAR BABUBHAI**, a Web & Game Developer from Gujarat, India. I architect high-performance digital ecosystems, ranging from immersive 3D web experiences to secure, real-time collaborative platforms. My work is defined by a **Cybernetic philosophy**—merging human-centric design with advanced machine efficiency.
+I am **Tushar Rathod **, a Web & Game Developer from Gujarat, India. I architect high-performance digital ecosystems, ranging from immersive 3D web experiences to secure, real-time collaborative platforms. My work is defined by a **Cybernetic philosophy**—merging human-centric design with advanced machine efficiency.
 
 <div align="center">
 

@@ -31,70 +31,20 @@ I am **Tushar Rathod**, a Web & Game Developer from Gujarat, India. I architect 
 </div>
 
 
-### 💻 Core Development
-- **Frontend:** React.js, Next.js, Three.js (3D Web), Tailwind CSS, Framer Motion
-- **Backend:** Node.js, Express, Firebase (Firestore/Realtime DB), Cloudinary
-- **Languages:** JavaScript, TypeScript, C#, Python, Java, Solidity (Blockchain)
-- **Game Dev:** Unity Engine, Blender (3D Modeling)
-
-
-<div align="center">
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 </div>
 
 #  www.tusharbr.online
 
-### • [home page](https://tusharbr.online/)
-The central hub featuring an animated profile card and a **3D ID Card interface**. It utilizes a **Terminal-style App Grid** for seamless navigation across the entire ecosystem.
 
 
-### • [Professional Resume](https://tusharbr.online/resume)
-A comprehensive timeline of my journey:
-- **Web & Game Developer (2024 - Present)**
-- **Diploma in I.T. (GTU, L.E. College) — Ongoing**
-- **Independent Project Architect (2021 - 2023)**
 
 
-### • [About & Philosophy](https://tusharbr.online/about)
-Focusing on four primary domains:
-- **Web Development:** High-performance React architectures.
-- **Game Development:** Immersive 3D environments via Unity.
-- **App Development:** Cross-platform PWA and mobile solutions.
-- **Cyber Security:** Ethical hacking and system hardening.
-
-### • [Project  Dashboard](https://tusharbr.online/projects)
-A real-time **filterable grid** showcasing academic and professional projects, integrated with a **live status monitor** for active services.
 
 
-### • [Verified Credentials (certificate)](https://tusharbr.online/certificates)
-A gallery of **25+ Verified Certificates** spanning **Digital Marketing, Machine Learning, Cyber Security, and Advanced Programming.**
 
 
-### • [Encrypted Chat](https://tusharbr.online/chat)
-An **end-to-end encrypted (AES)** real-time chat platform. Features include:
-- Telegram Bot integration for instant notifications.
-- Message reactions and star/bookmark system.
-- Secure user registration and typing indicators.
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
-
-## 📊 GitHub Intelligence
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-br&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</p>
-
-<div align="center">
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-</div>
 
 ## 🤝 Connect & Collaborate
 - **Location:** Gujarat, India
